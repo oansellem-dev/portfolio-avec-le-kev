@@ -1,0 +1,37 @@
+/* ------------ Project Detail Frame ------------ */
+.project-detail-frame {
+    position: relative;
+    padding: 15px;
+    background: linear-gradient(135deg,
+            #d4a84b 0%,
+            #f5d67a 15%,
+            #c49a32 30%,
+            #f5d67a 50%,
+            #c49a32 70%,
+            #f5d67a 85%,
+            #d4a84b 100%);
+    border-radius: 4px;
+    box-shadow:
+        0 20px 50px rgba(0, 0, 0, 0.5),
+        inset 2px 2px 4px rgba(255, 255, 255, 0.4),
+        inset -2px -2px 4px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
+.project-detail-frame-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border: 4px solid rgba(245, 214, 122, 0.5);
+    background: linear-gradient(145deg, rgba(20, 15, 10, 0.98), rgba(30, 25, 20, 0.95));
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.8);
+    overflow: hidden;
+}
+
+.project-detail-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background: #000;
+}

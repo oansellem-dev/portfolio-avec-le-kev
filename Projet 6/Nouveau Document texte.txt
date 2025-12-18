@@ -1,0 +1,15 @@
+Titre du projet :
+Production Vidéo Publicitaire & IA Générative
+
+À propos du projet
+Création de contenus publicitaires haute définition via les outils d'Intelligence Artificielle Générative (Text-to-Video / Image-to-Video). Ce pôle de compétences permet de produire des spots commerciaux ultra-réalistes ou stylisés avec des coûts et des délais de production réduits par rapport aux tournages traditionnels.
+
+Types de réalisations
+Product Showcase (Tech/Beauté) : Mise en scène photoréaliste de produits (ex: brosse à dents/hydropulseur) avec gestion précise des éclairages et des textures pour un rendu "studio".
+
+Brand Storytelling (EcoWise) : Animation de mascottes et d'univers de marque 3D pour renforcer l'identité visuelle de projets RSE (lien avec le projet EcoWise).
+
+Cinematography (Food & Beverage) : Création d'ambiances immersives et appétissantes ("Appetite Appeal") pour des marques de boissons, jouant sur le ralenti et les particules pour susciter l'émotion.
+
+Stack technique
+Generative AI Video • Kling AI • Prompt Engineering • Montage & Sound Design
