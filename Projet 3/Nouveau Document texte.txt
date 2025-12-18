@@ -1,0 +1,24 @@
+Titre du projet :
+Audit de Rentabilité & Optimisation des Marges (Northwind)
+
+À propos du projet
+Conception d'une architecture de données et d'un tableau de bord de pilotage pour une entreprise de fournitures générant 2,3 millions de dollars de revenus. Le but : identifier les fuites de revenus et assainir la marge nette (actuellement à 12,47% ).
+
+
+Les enjeux traités
+
+Data Modeling (Engineering) : Structuration de la base de données brute en Schéma en Étoile (Star Schema), connectant les tables Transactions, Clients et Produits pour rendre la donnée exploitable.
+
+
+
+Stratégie de Pricing : Analyse de l'élasticité-prix démontrant une chute critique de la rentabilité au-delà de 20% de remise. Recommandation stratégique : Plafonnement immédiat des remises commerciales.
+
+
+
+
+Rationalisation du Catalogue : Identification des produits déficitaires (notamment la sous-catégorie "Tables" en perte nette) face aux vaches à lait ("Copiers", "Phones") pour réorienter la stratégie d'achat.
+
+
+
+Stack technique
+SQL & Data Modeling • Google Looker Studio • Business Intelligence 

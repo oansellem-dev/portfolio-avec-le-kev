@@ -1,0 +1,23 @@
+Titre du projet :
+Dashboard de Pilotage E-commerce & Expansion Internationale
+
+À propos du projet
+Déploiement d'une interface de Business Intelligence pour le suivi d'une marque en hyper-croissance (+213% de CA annuel). Ce tableau de bord centralise les données vitales pour piloter une activité générant 2,6 millions d'euros de revenus et plus d'un million de visites.
+
+
+
+Les enjeux traités
+
+Pilotage de la performance : Surveillance en temps réel des KPIs critiques (Chiffre d'affaires, Taux de conversion de 1,41%, Utilisateurs actifs) pour sécuriser la montée en charge.
+
+
+
+Stratégie de marché : Segmentation géographique précise identifiant les États-Unis, le Canada et le Brésil comme leviers de croissance majeurs pour les catégories "Apparel" et "Lifestyle".
+
+
+
+
+Optimisation comportementale : Analyse des flux horaires (Heatmap) révélant les pics de conversion (Mardi/Mercredi, 9h-11h) pour calibrer les actions marketing.
+
+Stack technique
+Google Looker Studio • Google Analytics • Data Visualization

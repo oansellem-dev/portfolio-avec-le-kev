@@ -1,0 +1,20 @@
+Titre du projet 
+Growth Hacking & Stratégie d'Acquisition Omni-canale
+
+À propos du projet
+Déploiement d'un écosystème complet d'acquisition et de fidélisation pour Beïtea, une marque de Bubble Tea située sur les Champs-Élysées. L'objectif  structurer le funnel de vente pour maximiser la Lifetime Value (LTV) client.
+
+Les leviers activés
+
+Acquisition Automatisée (Outbound)  Mise en place de stratégies de Scraping (ciblage des followers concurrents) couplées à des séquences de Cold Emailing via PhantomBuster pour générer du trafic qualifié.
+
+
+Gamification & Revenu (BOFU)  Conception de mécaniques psychologiques (Tickets à gratter, offre Mystère) pour inciter au réachat et augmenter le panier moyen au-delà de 12€.
+
+
+
+Optimisation de la Conversion (CRO)  Création et AB Testing de Landing Pages dédiées pour transformer l'audience sociale en base de données clients exploitable.
+
+
+Stack technique
+PhantomBuster • Scraping & Data Enrichment • AB Testing • Marketing Automation
